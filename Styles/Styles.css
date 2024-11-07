@@ -17,11 +17,16 @@
     justify-content: space-around;
 }
 
-.card-cor{
-    border-radius: 0;
-}
+
 
 .caro-size{
     width: 811.7px;
     height: 681px;
+}
+
+.textbox{
+    width: 817px;
+    height: 681px;
+    background-color:#E2D0D0
+    
 }
